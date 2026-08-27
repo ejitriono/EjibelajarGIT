@@ -1,0 +1,120 @@
+2 git commiy                                                                                                                                                                 
+   3 git commit                                                                                                                                                                 
+   5 git commit -m "data ingestion and iot"                                                                                                                                     
+   6 git status                                                                                                                                                                 
+   8 git status                                                                                                                                                                 
+   9 git add .                                                                                                                                                                  
+  10 git commit -m "new iot data"                                                                                                                                               
+  13 git log                                                                                                                                                                    
+  15 git config --global user.name "Eji Triono"                                                                                                                                 
+  16 git log                                                                                                                                                                    
+  18 git config --global user.name...                                                                                                                                           
+  20 git log --oneline                                                                                                                                                          
+  21 git status                                                                                                                                                                 
+  22 git add                                                                                                                                                                    
+  23 git add .                                                                                                                                                                  
+  24 git commit -m "git ignore file"                                                                                                                                            
+  25 git status                                                                                                                                                                 
+  26 git log --oneline                                                                                                                                                          
+  27 git status                                                                                                                                                                 
+  28 git add .                                                                                                                                                                  
+  29 git commit -m "ignored bronze folder"                                                                                                                                      
+  30 git status                                                                                                                                                                 
+  31 git log --oneline                                                                                                                                                          
+  32 git add .                                                                                                                                                                  
+  33 git commit -m "add silver folder"                                                                                                                                          
+  34 git branch                                                                                                                                                                 
+  35 git switch master                                                                                                                                                          
+  36 git checkout master                                                                                                                                                        
+  37 git switch -c feature_ansh_1                                                                                                                                               
+  38 git branch                                                                                                                                                                 
+  39 git add .                                                                                                                                                                  
+  40 git commit -m "added more data"                                                                                                                                            
+  41 git log --oneline                                                                                                                                                          
+  43 git branch                                                                                                                                                                 
+  44 git switch master                                                                                                                                                          
+  45 git branch                                                                                                                                                                 
+  46 git switch feature_ansh_1                                                                                                                                                  
+  47 git branch                                                                                                                                                                 
+  49 git status                                                                                                                                                                 
+  50 git add .                                                                                                                                                                  
+  51 git commit -m "added more data"                                                                                                                                            
+  52 git add.                                                                                                                                                                   
+  53 git add .                                                                                                                                                                  
+  54 git commit -m "git ignored"                                                                                                                                                
+  55 git switch master                                                                                                                                                          
+  56 git switch feature_ansh_1                                                                                                                                                  
+  57 git switch master                                                                                                                                                          
+  59 git checkout -b feature_lamba_1                                                                                                                                            
+  60 git commit -m "ingested real time data"                                                                                                                                    
+  61 git add .                                                                                                                                                                  
+  62 git commit -m "ingested real time data"                                                                                                                                    
+  64 git switch master                                                                                                                                                          
+  65 git add .                                                                                                                                                                  
+  66 git commit -m "master commit"                                                                                                                                              
+  67 git branch                                                                                                                                                                 
+  69 git switch master                                                                                                                                                          
+  70 git merge feature_lamba_1                                                                                                                                                  
+  71 git status                                                                                                                                                                 
+  73 git switch master                                                                                                                                                          
+  74 git merge feature_ansh_1 -m "merging feature_ansh_1"                                                                                                                       
+  76 git switch master                                                                                                                                                          
+  77 git log --oneline                                                                                                                                                          
+  79 git log --oneline                                                                                                                                                          
+  81 git status                                                                                                                                                                 
+  82 git switch master                                                                                                                                                          
+  83 git switch -c bugfix                                                                                                                                                       
+  84 git add .                                                                                                                                                                  
+  85 git commit -m "fix bug"                                                                                                                                                    
+  87 git status                                                                                                                                                                 
+  88 git add .                                                                                                                                                                  
+  89 git commit -m "fix bug"                                                                                                                                                    
+  90 git switch master                                                                                                                                                          
+  91 git add .                                                                                                                                                                  
+  92 git commit -m "bug is fix"                                                                                                                                                 
+  94 git status                                                                                                                                                                 
+  95 git branch                                                                                                                                                                 
+  96 git merge bugfix -m "simple merge"                                                                                                                                         
+  97 git --abort                                                                                                                                                                
+  98 git merge --abort                                                                                                                                                          
+ 100 git status                                                                                                                                                                 
+ 101 git merge bugfix "this guy fixed as well"                                                                                                                                  
+ 102 git merge bugfix -m "this guy fixed as well"                                                                                                                               
+ 103 git merge bugfix -m "this guy fixed as well"                                                                                                                               
+ 104 git status                                                                                                                                                                 
+ 106 git merge bugfix -m "this guy fixed as well"                                                                                                                               
+ 108 git merge bugfix -m "this guy fixed as well"                                                                                                                               
+ 109 git status                                                                                                                                                                 
+ 111 git status                                                                                                                                                                 
+ 112 git merge bugfix -m "this guy fixed as well"                                                                                                                               
+ 113 git status                                                                                                                                                                 
+ 115 git add .                                                                                                                                                                  
+ 116 git commit -m "conflicts merged"                                                                                                                                           
+ 117 git status                                                                                                                                                                 
+ 118 git branch                                                                                                                                                                 
+ 119 git switch -c bugfix2                                                                                                                                                      
+ 120 git branch                                                                                                                                                                 
+ 121 git add .                                                                                                                                                                  
+ 122 git commit -m "fix bug 2"                                                                                                                                                  
+ 123 git switch master                                                                                                                                                          
+ 124 git add .                                                                                                                                                                  
+ 125 git commit -m "bug is fixed"                                                                                                                                               
+ 126 git branch                                                                                                                                                                 
+ 127 git merge bugfix2 -m "let's see"                                                                                                                                           
+ 128 git add .                                                                                                                                                                  
+ 129 git commit -m "finally conflict resolved"                                                                                                                                  
+ 130 git status                                                                                                                                                                 
+ 131 git branch                                                                                                                                                                 
+ 132 git switch -c rebase_feat                                                                                                                                                  
+ 133 git add .                                                                                                                                                                  
+ 134 git commit -m "ingest big data"                                                                                                                                            
+ 135 git add .                                                                                                                                                                  
+ 136 git commit -m "ingest big data"                                                                                                                                            
+ 137 git switch master                                                                                                                                                          
+ 138 git add .                                                                                                                                                                  
+ 139 git commit -m "ingest batch data"                                                                                                                                          
+ 140 git rebase master                                                                                                                                                          
+ 141 git switch rebase_feat                                                                                                                                                     
+ 142 git rebase master                                                                                                                                                          
+ 143 git switch master                                                                                                                                                          
+ 144 git merge rebase_feat      
